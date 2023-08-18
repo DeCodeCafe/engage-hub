@@ -2,7 +2,10 @@
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
-This repository is designed to help beginners from the Engage Hub Event take their first steps on GitHub by creating and submitting a simple introduction file through a pull request. Whether you're new to programming or just getting started with version control, this guide will walk you through the process in an easy and friendly manner. This tutorial guides you through a GUI to get you started but if you are familiar with the github cli you are free to do so!
+This repository is designed to help beginners from the Engage Hub Event take their first steps on GitHub by creating and submitting a simple introduction file through a pull request. Whether you're new to programming or just getting started with version control, this guide will walk you through the process in an easy and friendly manner. This tutorial guides you through a GUI to get you started but if you are familiar with the github CLI you are free to do so!
+
+### Before Starting
+To unlock a world of developer tools and resources, don't miss out on the opportunity to avail your GitHub Student Developer Pack by following this link: [GitHub Student Developer Pack](https://gh.io/decodecafe)
 
 ## Getting Started
 
@@ -51,3 +54,5 @@ Now that your changes are pushed to your forked repository, it's time to create 
 Feel free to explore, experiment, and continue learning as you become more comfortable with GitHub. Don't hesitate to reach out to the GitHub community if you need assistance or have any questions.
 
 Happy coding and collaborating! 🚀
+
+-Made By Parv Pareek
